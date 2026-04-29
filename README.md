@@ -45,11 +45,7 @@ Before you start, make sure you have:
    cd server
    ```
 
-2. Install Python dependencies:
-   ```bash
-   pip install -r requirements.txt
-   ```
-   Or if you're using `uv`:
+2. Install Python dependencies using `uv`:
    ```bash
    uv sync
    ```
